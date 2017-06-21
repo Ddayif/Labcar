@@ -133,3 +133,51 @@
 	font-size: 15px;
 	color: white;
 }
+
+
+/*******Seccion tarifas********/
+
+.tarifas{
+	background-color: #f7b617;
+	padding: 100px 0;
+	color: whitesmoke;
+}
+
+.circulo{
+	display: block;
+	padding-bottom: 30px;
+}
+
+.inputs{
+	width: 288px;
+	border-radius: 8px;
+	padding: 6px;
+	border-color: whitesmoke;
+	background-color: rgb(247, 182, 23);
+	margin-top: 8px;
+}
+
+input::-webkit-input-placeholder {
+  	color: white;
+  	text-align: left;
+}
+
+.simbolos{
+	padding-right: 22px;
+}
+
+.btn-mio{
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.tarifas p{
+	font-size: 18px;
+}
+
+
+#map{
+    width: 41%;
+    height: 60vh;
+    border: 2px solid whitesmoke;
+}
