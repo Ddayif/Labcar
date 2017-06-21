@@ -1,1 +1,56 @@
-main.css
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar{
+	border-color: black;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+}
+
+.navbar-nav{
+	padding: 30px 0;
+}
+
+.logo{
+	padding-left: 30px;
+    top: 35px;
+}
+
+.seccion-taxi{
+	background-image: url(../img/taxi.jpg);	
+	height: 672px;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: cover;
+}
+
+.caja-contenedora{
+	width: 84vh;
+	padding-top: 54px;
+    margin-top: 45px;
+    height: 53vh;
+	background-color: #f7b617;
+}
+
+.primera-linea{
+	display: block;
+}
+
+.caja-contenedora h2,h4{
+	color: whitesmoke;
+}
+
+.caja-contenedora h4{
+	display: inline-block;
+	font-size: 19px;
+
+}
+
+.logo-white{
+    height: 19px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
