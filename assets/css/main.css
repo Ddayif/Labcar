@@ -1,6 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
+	font-family: 'Raleway', sans-serif;
 }
 
 .navbar{
@@ -106,10 +107,29 @@
 	font-size: 19px;
 }
 
-.contenedor-conductor{
+.contenedor-conduce{
 	background-image: url(../img/conduce.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
 	height: 100vh;
+}
+
+.conduce{
+	background-color: rgba(10, 11, 39, 0.6);
+	color: white;
+	height: 100vh
+}
+
+.conduce h2{
+	padding-top: 114px;
+    font-size: 27px;
+    padding-bottom: 24px;
+    color: white
+}
+
+
+.conduce h4{
+	font-size: 15px;
+	color: white;
 }
