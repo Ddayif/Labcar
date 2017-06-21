@@ -8,6 +8,7 @@
 	border-top: none;
 	border-right: none;
 	border-left: none;
+	margin: 0;
 }
 
 .navbar-nav{
@@ -37,6 +38,7 @@
 
 .primera-linea{
 	display: block;
+	    margin-top: -31px;
 }
 
 .caja-contenedora h2,h4{
@@ -53,4 +55,61 @@
     height: 19px;
     padding-left: 5px;
     padding-bottom: 5px;
+}
+
+.registrate{
+	color: whitesmoke;
+	    padding-top: 17px;
+}
+
+#solicitud{
+	border-color: whitesmoke;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	background-color: rgb(247, 182, 23);
+	margin-top: 8px;
+	
+}
+
+.contenedor-boton{
+	padding-top: 20px;
+}
+
+.otra-opcion{
+	display: inline-block;
+	color: whitesmoke;
+}
+
+
+
+/******Seccion de informacion********/
+
+.contenedor-informacion{
+	background-color: #f7b617;
+	padding: 47px 0;
+	color: whitesmoke;
+}
+
+.margen{
+	border-top: 1px solid whitesmoke;
+	border-bottom: 1px solid whitesmoke;
+	border-right: 1px solid whitesmoke;
+	padding: 40px 0;
+}
+
+.contenedor-informacion h1{
+	font-size: 32px;
+}
+
+.texto-labcar{
+	font-size: 19px;
+}
+
+.contenedor-conductor{
+	background-image: url(../img/conduce.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
 }
