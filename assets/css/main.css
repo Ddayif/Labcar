@@ -181,3 +181,83 @@ input::-webkit-input-placeholder {
     height: 60vh;
     border: 2px solid whitesmoke;
 }
+
+
+
+
+
+/********Comienza el footer***********/
+.seccion-footer{
+	background-color: #3e3f40;
+	padding: 71px 0px;
+    padding-left: 83px;
+    padding-bottom: 0px;
+}
+
+.logo-footer{
+	padding-bottom: 10px;
+}
+
+
+.contenedor-logo-footer{
+	left: 30px;
+    border-bottom: 1px solid whitesmoke;
+}
+
+.enlaces{
+	padding: 67px 0;
+	padding-bottom: 0;
+}
+
+.segundos-enlaces{
+	right: 147px;
+}
+
+.enlaces a{
+	 color: whitesmoke;
+}
+
+.enlaces-abajo{
+	padding: 0 ;
+}
+
+.contenedor-logo{
+	bottom: 113px;
+}
+
+.logo-app{
+	right: 147px;
+}
+
+.ultimo{
+	bottom: 57px;
+}
+
+footer p{
+	margin: 20px 0;
+}
+
+.google{
+    margin-top: -27px;
+}
+
+.margen{
+    border-bottom: 1px solid whitesmoke;
+    border-top: none;
+    border-left: none;
+   bottom: 185px;
+}
+.iconos{
+	color: whitesmoke;
+	padding-right: 20px;
+	padding-bottom: 0;
+}
+
+.icono-facebook{
+	padding-left: 10px;
+}
+
+.labcar{
+	color: whitesmoke;
+	    bottom: 148px;
+}
