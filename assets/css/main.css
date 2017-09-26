@@ -92,7 +92,7 @@
 	color: whitesmoke;
 }
 
-.margen{
+.margen-uno{
 	border-top: 1px solid whitesmoke;
 	border-bottom: 1px solid whitesmoke;
 	border-right: 1px solid whitesmoke;
@@ -202,6 +202,7 @@ input::-webkit-input-placeholder {
 .contenedor-logo-footer{
 	left: 30px;
     border-bottom: 1px solid whitesmoke;
+    max-width: 96.5%;
 }
 
 .enlaces{
@@ -239,13 +240,16 @@ footer p{
 
 .google{
     margin-top: -27px;
+    width: 228px;
 }
 
 .margen{
     border-bottom: 1px solid whitesmoke;
     border-top: none;
     border-left: none;
-   bottom: 185px;
+    border-right: none;
+   	bottom: 181px;
+    padding: 40px 0;
 }
 .iconos{
 	color: whitesmoke;
@@ -259,5 +263,6 @@ footer p{
 
 .labcar{
 	color: whitesmoke;
-	    bottom: 148px;
+	bottom: 148px;
+	width: 238px;
 }
